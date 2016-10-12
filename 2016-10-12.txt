@@ -12,3 +12,31 @@ exercise: just a little bit will do more before sleeping
 
 Journal:
 hey sam (if you happen to read this), this can let you know of ji-hun's and my progres and shit
+
+Update: 12:16 AM (next day), finished 100 more pushups. Tomorrow we will get gym membership closer to office. 
+
+Ate at 5ku garden and accidentally ate fried chicken feet. fried chicken tendons and went back and got bread and rice dish. 
+
+Class: went through partials. Here’s the notes I had on it:
+
+
+model itself is the model. 
+new is the instance. 
+
+create does not save(?)
+
+def change
+end
+end
+
+in views documentation helpers
+
+routes resources
+
+merge conflict - in schema file (maintains current version of db?… on local machine(?) )
+Andrew had a merge conflict. In schema, should show version whatever and you delete the version number and save and it should work. Or they said (i think) you just get the remote version and then start from there. 
+
+partial is so you can share
+when use a partial you want to know what you pass in.
+
+So when displaying comments for each picture or post, it was done in the blog pre-work optionals so need to review that. 
