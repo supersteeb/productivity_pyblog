@@ -6,3 +6,10 @@
 
 Whatever the case, I'm excited!
 
+
+Edit (Update: 12:44 pm):
+So the chess screenshot is like evidence of the game I played (first one, I lost horribly), but then there's way to measure feedback and progress. 
+
+Also, this becomes like a public journal... that hopefully one day the data can be parsed and imported into a better application. 
+
+Yes, this is not an original idea... but perhaps this may work for me... if anything, it'll help me learn coding. ... or motivate me to learn more so I can do this shit more effectively. 
