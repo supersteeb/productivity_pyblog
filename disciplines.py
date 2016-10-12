@@ -7,11 +7,12 @@ date_string = time.strftime("%Y-%m-%d")
 
 script = argv
 
+print "Opening the file..."
 target = open(date_string + '.txt', 'w')
 
 tasks_with_entry = ['code', 'read', 'exercise']
 tasks = ['sudoku', 'chess', 'stretch lower back', 'do push-ups', 'forearm exercises', 'write left hand']
-
+today = []
 
 data = [date_string]
 
@@ -22,9 +23,15 @@ for i in range(len(tasks)):
     if check == 'y':
     	data.append(True)
     	print data
+        target.write(tasks[i] + ": x")
+        target.write("\n")
+        print "wrote to text file that completed"
     if check == 'n':
     	data.append(False)
     	print data
+        target.write(tasks[i] + ": ")
+        target.write("\n")
+        print "wrote to textfile that not completed. can always do later and change manually."
 
 for i in range(len(tasks_with_entry)):
     check = raw_input("Did you %s? (y/n) " % tasks_with_entry[i])

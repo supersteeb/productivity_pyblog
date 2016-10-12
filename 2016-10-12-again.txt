@@ -1,0 +1,14 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: rewrote to python program so it writes to textfile as well
+
+read: read some of debt
+
+exercise: already wrote
+
+Journal:
+blah

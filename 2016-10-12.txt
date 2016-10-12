@@ -1,11 +1,14 @@
-code: figuring out how to add entries to the csv file. 
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: modified this pythons script and renamed it to disciplines. i think this is the final test with all the today's date textfiles as modifications and shit (yes, shitty way to document I know, but I'll get better)
 
-read: read debt and put shit i learned in '2016-10-12_test.txt'
+read: already noted
 
-exercise: exercised a bit this morning and put it in the previously mentioned txt file.
+exercise: just a little bit will do more before sleeping
 
 Journal:
-already wrote 100 words previously about california yoga & fitness incident and shit I learned from the book 'debt'.
-
-UPdate(10-12 12:11pm)
-so after creating test1.csv, went in and manually re-changed the columns to make column headers. doing it now. 
+hey sam (if you happen to read this), this can let you know of ji-hun's and my progres and shit

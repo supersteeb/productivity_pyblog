@@ -1,0 +1,15 @@
+code: figuring out how to add entries to the csv file. 
+
+read: read debt and put shit i learned in '2016-10-12_test.txt'
+
+exercise: exercised a bit this morning and put it in the previously mentioned txt file.
+
+Journal:
+already wrote 100 words previously about california yoga & fitness incident and shit I learned from the book 'debt'.
+
+UPdate(10-12 12:11pm)
+so after creating test1.csv, went in and manually re-changed the columns to make column headers. doing it now.  
+
+Update(10-12 12:37pm)
+I think I got it now. What I had to do was after it appends data to csv file, it also writes to the text file. But also puts this ‘x’ after writing it to text file. Will test it tomorrow… or again tonight. 
+ 
