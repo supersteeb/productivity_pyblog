@@ -12,4 +12,7 @@ So the chess screenshot is like evidence of the game I played (first one, I lost
 
 Also, this becomes like a public journal... that hopefully one day the data can be parsed and imported into a better application. 
 
-Yes, this is not an original idea... but perhaps this may work for me... if anything, it'll help me learn coding. ... or motivate me to learn more so I can do this shit more effectively. 
+Yes, this is not an original idea... but perhaps this may work for me... if anything, it'll help me learn coding. ... or motivate me to learn more so I can do this shit more effectively.
+
+Update: 10/12 12:49 pm):
+Test1.csv is the csv file that shows if every task is done. 
