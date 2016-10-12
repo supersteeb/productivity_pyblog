@@ -1,0 +1,14 @@
+code: I re-did this and created the csv file to modify me logging how i'm staying productive here. Finding the parallels of how to make a prettier interface of this app to log my productivity. 
+
+read: Medieval irish laws: Update: read some of debt on medieval irish laws that the lowest form of honor would be to give up your daughter to do some chorework for the person to whom you are indebted to. going to copy and paste more exerpts in journal (which currently has 91 words)
+
+exercise: 100 pushups, some shadowbox, some lowerback stretching. today went to california yoga & fitness and they required minimum 1 year membership. need to find structure to be productive. 
+
+Journal:
+California yoga and fitness: nice facilities but terrible business model as they don't allow pay-by-the-month term contracts, thus missing out on potential  revenue from tourists. pity because they were close by. We were willing to pay more for the month. Keep this in mind when dealing with future shit if traveling and need to find places to exercise. Figuring out structure is good but I'm glad I can deploy this somewhat publicly. If anything, Andrew can have his own way to document if he wants and we commit to same repository.
+
+Update: from debt (p176-177)
+In ancient Greek, the word for "honor" was tfme. In Homer's time, the term appears to have been used much like the Irish term "honor price": it referred both to the glory of the warrior and the compensation paid as damages in case of injury or insult. Yet with the rise of markets over the next several centuries, the meaning of the word tfme began to change. On the one hand, it became the word for "price"-as in, the price of something one buys in the market. On the other, it referred to an attitude of complete contempt for markets.Actually, this is still the case today:In Greece the word "timi" means honor, which has been typi­ cally seen as the most important value in Greek village society. Honor is often characterized in Greece as an open-handed gen­ erosity and blatant disregard for monetary costs and counting. And yet the same word also means "price" as in the price of a pound of tomatoes.
+
+Update: (Oct 12 @12:06pm)
+made the csv file ‘test1.csv’ but it didn’t append. So now what I need to do is re-run the program. and i’ll rename this to ‘2016-10-12_test’
