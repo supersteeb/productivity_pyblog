@@ -66,7 +66,7 @@ print "\n"
 print "If you didn't finish any of them but finish them later but before the day is over, go to the text file and edit it."
 target.close()
 
-b = open('test1.csv', 'ab')
+b = open('spreadsheet.csv', 'ab')
 a = csv.writer(b)
 data1 = [data]
 a.writerows(data1)

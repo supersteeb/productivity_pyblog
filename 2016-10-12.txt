@@ -4,14 +4,26 @@ stretch lower back: x
 do push-ups: x
 forearm exercises: x
 write left hand: x
-code: modified this pythons script and renamed it to disciplines. i think this is the final test with all the today's date textfiles as modifications and shit (yes, shitty way to document I know, but I'll get better)
+code: modified this pythons script and renamed it to disciplines. i think this is the final test with all the today's date textfiles as modifications and shit (yes, shitty way to document I know, but I'll get better). figuring out how to add entries to the csv file. 
 
-read: already noted
+Update (manual import from ‘./test/2016-10-12_test.txt’.): I re-did this and created the csv file to modify me logging how i'm staying productive here. Finding the parallels of how to make a prettier interface of this app to log my productivity. 
 
-exercise: just a little bit will do more before sleeping
+read: read debt and put shit i learned in '2016-10-12_test.txt’. 
+
+exercise: just a little bit will do more before sleeping. 
+
+Update (manual import from ‘./test/2016-10-12_test.txt’.):
+100 pushups, some shadowbox, some lowerback stretching. today went to california yoga & fitness and they required minimum 1 year membership. need to find structure to be productive. 
 
 Journal:
 hey sam (if you happen to read this), this can let you know of ji-hun's and my progres and shit
+
+UPdate(10-12 12:11pm)
+so after creating test1.csv, went in and manually re-changed the columns to make column headers. doing it now.  
+
+Update(10-12 12:37pm)
+I think I got it now. What I had to do was after it appends data to csv file, it also writes to the text file. But also puts this ‘x’ after writing it to text file. Will test it tomorrow… or again tonight. 
+
 
 Update: 12:16 AM (next day), finished 100 more pushups. Tomorrow we will get gym membership closer to office. 
 
@@ -40,3 +52,12 @@ partial is so you can share
 when use a partial you want to know what you pass in.
 
 So when displaying comments for each picture or post, it was done in the blog pre-work optionals so need to review that. 
+
+manual import from ‘./test/2016-10-12_test.txt’: 
+California yoga and fitness: nice facilities but terrible business model as they don't allow pay-by-the-month term contracts, thus missing out on potential  revenue from tourists. pity because they were close by. We were willing to pay more for the month. Keep this in mind when dealing with future shit if traveling and need to find places to exercise. Figuring out structure is good but I'm glad I can deploy this somewhat publicly. If anything, Andrew can have his own way to document if he wants and we commit to same repository.
+
+Update: from debt (p176-177)
+In ancient Greek, the word for "honor" was tfme. In Homer's time, the term appears to have been used much like the Irish term "honor price": it referred both to the glory of the warrior and the compensation paid as damages in case of injury or insult. Yet with the rise of markets over the next several centuries, the meaning of the word tfme began to change. On the one hand, it became the word for "price"-as in, the price of something one buys in the market. On the other, it referred to an attitude of complete contempt for markets.Actually, this is still the case today:In Greece the word "timi" means honor, which has been typi­ cally seen as the most important value in Greek village society. Honor is often characterized in Greece as an open-handed gen­ erosity and blatant disregard for monetary costs and counting. And yet the same word also means "price" as in the price of a pound of tomatoes.
+
+Update: (Oct 12 @12:06pm)
+made the csv file ‘test1.csv’ but it didn’t append. So now what I need to do is re-run the program. and i’ll rename this to ‘2016-10-12_test’
