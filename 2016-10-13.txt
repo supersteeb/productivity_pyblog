@@ -1,0 +1,14 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: created an order form so users can create orders and counts it next to the food item. what needs to be done is an 'order cart' that tracks and displays how many food_items are in it. also, upon clicking 'alphabetical' displaying food_items list by section and all together sorts items alphabetically... 
+
+read: I read some of 'ruby wizardry' and did some of the exercises. created a program that colors panda's food purple. using 'include.'
+
+exercise: shadowboxing, hip exercises, lower back stretches, 50 pushups (sore from doing pushups previous 2 days). Gonna go to the gym in about an hour and a halalf to do more and can update this entry manually. 
+
+Journal:
+This program runs too linearly. But it somewhat serves its purpose for me to  do all the shit I set out for myself... for example, I technically lied that I wrote left hand. Also need to add "juggle" left hand too. [pause] ...and 10 min later, I just finished writing lefthand while learning Vietnamese words and sayings.
