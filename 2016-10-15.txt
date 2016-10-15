@@ -1,0 +1,12 @@
+sudoku: 
+chess: x
+stretch lower back: 
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: created data migration that established many-to-many relationship with order and food items so order quantity can be counted. 
+
+exercise: sparred andrew twice today, morning and evening. killed biceps. 
+
+Journal:
+today lacking energy. didn't progress much unfortunately. we were talking about how to keep people from getting bored. i am frustrated with my lack of understanding for coding. 
