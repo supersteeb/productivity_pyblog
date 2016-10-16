@@ -12,3 +12,19 @@ exercise: sparred andrew this morning. did shoulder presses, rows, lat pull down
 
 Journal:
 I'm slowly getting the coding shit better. I need to learn more and figure outt the gaps in my knowledge. I need to stay productive. I had like a lull for 2 days, but I am getting my mental stamina back up. I can do this. The video kind of reaffirmed my own previous beliefs and biases as I feel I have been trying to find the middle ground of "okay, well if willpower is a finite resource, then there must be a way to increase the daily reserve of it through discipline" which my productivity and experiences in Thailand have attested to. 
+
+here is my heroku app: https://sheltered-ridge-41758.herokuapp.com/
+
+and stuff from my readme: 
+- the order count next to the food item doesn't update
+- doesn't increase quantity of redundant food item names (as in, consolidate them onto one line on the table view for the order check out)
+- does not yet have cuisine
+- one video tutorial on doing Order and then it increasess number of order (order count) next to food item, and then the latest video on checking out and viewing cart and adding everything... I have the 2nd functionality. 
+- this is a cool little video thing: http://railscasts.com/episodes/228-sortable-table-columns?autoplay=true
+
+- FOR HEROKU: 
+so how do I 'generate_defaults' onto my app for the site? does it work like seed defaults in the rails console? excpet i put it in seed and then it be like" 
+
+heroku run rake db:seed? 
+
+Im guessing I'd do that. 
