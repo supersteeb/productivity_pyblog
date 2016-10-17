@@ -1,0 +1,25 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: learned about user authentication. did the video tutorial before class and did it again in class. 
+
+read: some of ruby wizardry. almost done. also learned about get and post and some stuff about db migrate
+
+exercise: abs in the morning. (sparring a given now). then burpee workout with weights and mountain climbers, pushups, etc in afternoon. was intense. felt it in hamstrings. 
+
+Journal:
+I need to go back and change this because it's 1:12 am.
+
+Need to learn more about hashes and referencing. Adding them to new arrays or new hashes to manipulate the data. Belongs_to and has_many relationships as well. 
+
+User: id, name, e-mail, password, etc.
+Disciplines: id, name, task, date, completed?
+Completed? 
+Goals: 
+
+user has many disciplines, has many goals. 
+
+fuck, can’t visualize it. will sleep on it more. 
