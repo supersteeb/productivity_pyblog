@@ -1,0 +1,14 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: did the logging in. did 2 katas for codewars (count number of 1s in any integer after converted to binary. did it by converting to string then splitting into array and running loop to count each value, checking if was 1 or not.) trying to make a kaewphitak fighter table.
+
+read: some of debt. good book. will definitely need to re-read
+
+exercise: missed morning training. 5 rounds sparring muay thai with andrew. then some abs. left shoulder hurt from hanging when trying to do toe to bar (good ab workout)
+
+Journal:
+More and more fascinated by coding. Trying to figure out when the input ffor the fighter table returns nil after putting in integer :(. 
