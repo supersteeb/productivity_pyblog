@@ -1,0 +1,12 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: 
+code: did the add friends. learned about self-referential association in rails and how that looks like. you have many friends through friendships. but friends are users.
+read: "Meaning is not only about transcending the self, but also about transcending the present moment -- which is perhaps the most important finding of the study, according to the researchers. "
+exercise: did biceps and triceps. bicep curls with the zigzaggy bar. then tricep pull extensions. then bicep curls with dumbbells. then tricep pushups against bench. then 3 rounds boxing sparring and 3 rounds muay thai sparring against andrew. 
+
+Journal:
+I had a dream about code last night. Andrew was trying to wake me up and he was pushing against my back and shaking me. In my dream, I was in the rroutes file and saw that the http request for get for the 'awake' action or something but instead i had put a 'want' action but it was crashing, and i even knew that there was not 'want' request or whatever. But I could hear Andrew say, 'wake up' but I wasn't waking up and then I woke up. It was some trippy, Matrix-y type of shit t dealing with code that didn't even really make sense. Like it was somewhat lucid... like I knew I was sleeping, but the action of "wake up" wasn't working correctly... and it manifested that way in my physical reality. Trippy af. 
