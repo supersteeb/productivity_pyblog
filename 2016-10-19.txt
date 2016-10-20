@@ -1,0 +1,94 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: x
+write left hand: x
+code: learned more about MVC from charles. Andrew had epiphany of ground-level concepts of relational databases. Looked up messages and friendship models and permission hierarhcies.
+
+read: will put notes in text file
+
+exercise: worked out with charles doing circuit for chest. then in afternoon sparred 5 rds boxing with andrew. He's getting better. 
+
+Journal:
+Just do the actions without fear (trusting your teacher, assuming he has every best intention for you and not himself). Turkey and pole cat. Triggers. when hearing baby turkey cheep cheep mother would take care of stuffed pole cat. Think of these auto-generated responses humans have to certain things. 
+
+Notes: 
+
+everyone has lid - leadership ability 
+
+increase leadership ability. one way we do that. 
+
+strong foundation. if you want to influence, must get people to trust you. 
+
+be worthy of their trust. be worthy. 
+
+trust => chisel. chisel everything preventing you from reaching highest potential. 
+
+1. Integrity => be unscrupulously honest. no white lies. no exaggerations. what you say is your truth. 
+
+2. Authenticity => be no one but you. ‘ to thine own self be true.’ 
+
+3. Discipline => do what you say you’re going to do. do what needs to be done. 
+
+you have an idea of what you aspire to be. needs to drive action.s which drive feelings. 
+
+
+
+start with identity => “you aspire to be an extraordinary leader who helps people and makes a difference in the world.” 
+
+you take actions that are consistent with it. 
+
+how can you get better in each of those domains. 
+
+think 25 things you can see you doing. 
+
+25 life goals. 
+
+Identify strengths
+
+What are my strengths?
+
+Energy
+Discipline
+Communication
+Good at everything / fast learner
+
+
+6 Triggers - participant observation. researcher becomes participant. 
+
+1. reciprocity
+2. consistency - foot in the door
+3. social proof - best-selling ‘fastest-selling’ when you see a lot of people doing something, typically, it was a sign it was a smart thing. social proof can be fabricated or following herd off a cliff. 
+4. liking - if you like them you can trust them
+5. authority - 
+
+
+6. scarcity - limited supply “act now” “sale ends in 24 hours!” natural impulse is to seize something when it’s scarce. 
+
+we have an impulse to be consistent. 
+
+commitment and consistency.
+
+habit 101. starting small. mini habits. power of habits. break big goal into tiny ones. 
+
+form_for for resource <= allows to work with different text.
+f.object will give you object (form_for @user) and @user is the object. Raise exceptions => best way to debug
+
+merge happens usually happens in the schema
+
+form_tag
+
+
+making sure there’s a lot of events and managing within the community
+
+bmw => meet up functions, a lot of handshaking, conferences.
+
+
+
+tools / software 
+- CRM we are just starting to use. 
+
+mobile lite
+
+twitter lists - a list of influencers
