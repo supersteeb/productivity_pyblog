@@ -1,0 +1,12 @@
+sudoku: x
+chess: x
+stretch lower back: x
+do push-ups: x
+forearm exercises: 
+write left hand: 
+code: can't check if once checked, the update changes completed_at to the datetime like we did for the chat app. need to be more consistent with this. 
+
+exercise: 4 rounds sparring with andrew. then shadowboxing and burpee with weightshts. dodge and duck drill with weights. 
+
+Journal:
+learning about testing is hard. here is what corin said: "start small. test little pieces. trial and error. look at other people's stuff. usually the best way to look at other projects and keep looking until you find something you somewhtat like and then build from there. the real problem is that you need to be confident that your tests actually test everything because false confidence is bad. it was just like when i was learning to dance from you. i imitated you for the longest time. because in the beginning, i don't have an understanding. ... until you understand all the littel pieces, you don't know how they fit together."
